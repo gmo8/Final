@@ -35,7 +35,7 @@ function draw(){
     }
     
     textSize(20);
-    text("Bill Watterson", 1400,900);
+    text("Bill Watterson", 1700,900);
 
    star1.display();
    star1.move();
@@ -144,7 +144,14 @@ function draw(){
     ellipse(1200,100,10,10);
     ellipse(1600,130,10,10);
     ellipse(1340,300,10,10);
-    ellipse(1300,600,10,10);
+    ellipse(1600,400,10,10);
+    ellipse(1800,400,10,10);
+    ellipse(1500,330,10,10);
+    ellipse(2000,600,10,10);
+    ellipse(1750,710,10,10);
+    ellipse(1820,450,10,10);
+    ellipse(2100,300,10,10);
+    ellipse(1930,120,10,10);
 
 
 
